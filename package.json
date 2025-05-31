@@ -28,6 +28,6 @@
     "hexo-theme-fluid": "^1.9.8",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-uuid": "^1.0.4",
-    "mouse-firework": "^0.0.6"
+    "mouse-firework": "^0.1.1"
   }
 }
