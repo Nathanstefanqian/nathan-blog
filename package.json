@@ -14,6 +14,7 @@
   "dependencies": {
     "aplayer": "^1.10.1",
     "hexo": "^7.3.0",
+    "hexo-abbrlink": "^2.2.1",
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
@@ -26,6 +27,7 @@
     "hexo-static-cos": "^0.0.2",
     "hexo-theme-fluid": "^1.9.8",
     "hexo-theme-landscape": "^1.0.0",
+    "hexo-uuid": "^1.0.4",
     "mouse-firework": "^0.0.6"
   }
 }
