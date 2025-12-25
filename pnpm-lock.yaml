@@ -51,7 +51,7 @@ importers:
         specifier: ^1.9.8
         version: 1.9.8(nunjucks@3.2.4(chokidar@3.6.0))
       hexo-theme-landscape:
-        specifier: ^1.0.0
+        specifier: ^1.1.0
         version: 1.1.0
       hexo-uuid:
         specifier: ^1.0.4
